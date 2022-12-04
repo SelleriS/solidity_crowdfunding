@@ -43,7 +43,7 @@ const refund = await cf.getRefund({from:accounts[0]}); // Only run this command 
 const refund = await cf.getRefund({from:accounts[1]}); // Only run this command once the deadline has passed
 ```
 
-## Resources
-- https://link.springer.com/chapter/10.1007/978-3-031-01807-7_3
-- https://trufflesuite.com/docs/truffle/how-to/contracts/run-migrations/
-- https://blog.logrocket.com/develop-test-deploy-smart-contracts-ganache/
+## Sources
+1. [The next 700 Smart Contract Languages](https://link.springer.com/chapter/10.1007/978-3-031-01807-7_3)
+2. [Truffle Suite docs](https://trufflesuite.com/docs/truffle/how-to/contracts/run-migrations/)
+3. [Logrocket blog: Develop Test Deploy Smart Contracts Ganache](https://blog.logrocket.com/develop-test-deploy-smart-contracts-ganache/)
