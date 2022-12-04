@@ -1,5 +1,5 @@
 # Crowdfunding contract in Solidity
-This is a crowdfunding contract in Solidity that is based on the contract *"The Next 700 Smart Contract Languages" - Ilya Sergey". It has been modified a bit to be compatible with the current Solidity standards.
+This is a crowdfunding contract in Solidity that is based on the contract *"The Next 700 Smart Contract Languages" - Ilya Sergey"*. It has been modified a bit to be compatible with the current Solidity standards.
 
 ## Install
 This repository contains Smart Contract code in Solidity (using Truffle). This repository doesn't contain tests for the moment. 
